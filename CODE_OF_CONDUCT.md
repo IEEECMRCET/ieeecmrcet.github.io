@@ -1,3 +1,10 @@
+---
+layout: page
+title: Code of Conduct
+tagline: Create a contact form and you are good to go
+---
+
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
